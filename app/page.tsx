@@ -88,7 +88,7 @@ export default function Home() {
             {/* Project 3 */}
             <ProjectCard 
               title="SQL-50"
-              description="Another project to highlight your skills. Share the impact or results of this work."
+              description="This repository tracks my progress working through the LeetCode SQL Top 50 Study Plan as part of strengthening my database fundamentals and preparing for technical interviews."
               tags={["SQL", "DATABASE", "MYSQL"]}
               color="purple"
               href="https://github.com/jhongia/SQL-50"
