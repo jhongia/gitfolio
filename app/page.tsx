@@ -127,7 +127,9 @@ export default function Home() {
           </div>
           <div className="md:col-span-8 space-y-8 text-cyan-100/80 leading-relaxed font-light">
             <p>
-              Every developer has a unique journey. Share yours here—whether you&apos;re self-taught, a bootcamp grad, or transitioning careers. <strong className="text-fuchsia-400 font-bold">Your story matters.</strong> Talk about what drives you to code and the impact you want to make.
+              <strong className="text-fuchsia-400 font-bold">
+                Software Engineer with 2+ years of experience building enterprise-grade applications, supporting platforms used by 100,000+ clients across North America. I enjoy working on complex systems, modernizing legacy platforms, solving problems that matter at scale, and experimenting with agentic AI.
+              </strong>
             </p>
             <div className="p-6 bg-cyan-950/20 border border-cyan-500/20 rounded-sm relative overflow-hidden">
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-cyan-500 via-fuchsia-500 to-cyan-500" />
